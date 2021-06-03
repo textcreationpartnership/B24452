@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition and case of the tobacco-pipe-makers of the cities of London and Westminster in behalf of themselves, and the rest of their brethren, through the Kingdom of England and dominion of Wales; as also the distressed condition they must inevitably lye under, if the intended imposition on tobacco-pipes be laid.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24452</idno><idno type="EEBO-CITATION">99832234</idno>
+  <idno type="VID">198941</idno>
+  <idno type="EEBO-PROQUEST">2240921927</idno>
+  
+            <idno type="STC">Wing H3431</idno>
+            <idno type="PROQUEST">99832234</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99832234e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24452)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 198941)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 21242:138)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition and case of the tobacco-pipe-makers of the cities of London and Westminster in behalf of themselves, and the rest of their brethren, through the Kingdom of England and dominion of Wales; as also the distressed condition they must inevitably lye under, if the intended imposition on tobacco-pipes be laid.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Tobacco pipes --  Taxation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:198941:1"/>
+            <head>The Humble PETITION and CASE Of the Tobacco-Pipe-Makers Of the Cities of <hi>London</hi> and <hi>Westminster,</hi> In behalf of themselves, and the rest of their Brethren, through the Kingdom of <hi>England</hi> and Dominion of <hi>Wales;</hi> As also the distressed Condition they must inevitably lye under, if the in<g ref="char:EOLhyphen"/>tended Imposition on <hi>Tobacco-Pipes</hi> be laid.</head>
+            <p>First, THAT it evidently appears to the Eye of all Mankind, What a poor Manufacture it is, of which, many worthy Members of this Honourable House (if not all) cannot but be sensible.</p>
+            <p>
+               <hi>Secondly,</hi> That very few (or none) have Stock to carry on their Trade, without great Trust from their Clay-Merchants; And are obliged to pay for one Quantity of Clay, when they fetch ano<g ref="char:EOLhyphen"/>ther; (which when done, scarce leaves them Money enough to support their Families,) which renders them very uncapable of paying any Duty, but must have their Goods (if any) for the same.</p>
+            <p>
+               <hi>Thirdly,</hi> If the Imposition passes, That with the already Rise of <hi>Tobacco,</hi> will make the meaner sort of People forbear smoaking <hi>Tobacco;</hi> By which, His Majesty will lose much more of his Revenue, than this Imposition will bring in.</p>
+            <p>
+               <hi>Fourthly,</hi> That all the poorer sort of the Trade, must be compelled to lay it down, for want of Stock or Credit to carry it on; and so their Wives and Children, who help to get their Bread, must of neces<g ref="char:EOLhyphen"/>sity perish, or become a Charge to their respective Parishes.</p>
+            <p>
+               <hi>Fifthly,</hi> That when a Gross of Pipes are made, they sell them for 1 <hi>s.</hi> 6 <hi>d.</hi> and 1 <hi>s.</hi> 10 <hi>d.</hi> out of which 2 <hi>d.</hi> or 3 <hi>d.</hi> is their greatest Profit: And they not already having Stock, or can make Pipes fast enough to maintain their Families, how much less can they be capable, when half the Stock they have, must be paid down to pay the King his Duty?</p>
+            <p>
+               <hi>Sixthly,</hi> It often happens, that for want of Money to buy Bread for their Families, a great many are forced to Sell their Goods at 3 <hi>d.</hi> or 4 <hi>d. per</hi> Gross less than the Prime Cost, to supply their immediate Necessities: Which if it be so with those of the Trade, in and about these Cities, how much harder must it be with those in the Country, who make not half so many Pipes.</p>
+            <p>
+               <hi>Seventhly,</hi> If this Imposition should pass, when the Kings Officers are paid, and Expences deducted, the Overplus will be so small a Revenue to the King, that it will be of no great Service; although the Ruine of many Families, who now make a hard shift to live by their Trade.</p>
+            <p>
+               <hi>Gentlemen,</hi> These, with many other Reasons which might be offered, only that we will not trouble you too much, but humbly submit; and hope that we may be heard by our Counsel; and that you will take our most deplorable Condition into your serious Consideration: and let Ours, with our Wives and Childrens future Destruction, implore your tender Compas<g ref="char:EOLhyphen"/>sion; That this Imposition, nor any upon our Poor Manufacture, may be imposed:</p>
+            <closer>
+               <hi>And your Petitioners (as in Duty bound) shall ever Pray,</hi> &amp;c.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
